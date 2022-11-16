@@ -1,5 +1,5 @@
 #include "simpleshell.h"
-
+#include <stdio.h>
 /**
  * read_input - stores whatever is passed to it as standard input
  * Return: string containing the input
