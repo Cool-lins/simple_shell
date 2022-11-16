@@ -54,7 +54,6 @@ char *read_input(void)
 
 char **sparse_str(char *line, char **env)
 {
-
 	int bufsize = TOK_BUFSIZE, posicion = 0;
 	char **tokens;
 	char *token;
