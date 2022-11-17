@@ -9,7 +9,6 @@
 
 char **_which(char *foundpath)
 {
-
 	int size = TOK_BUFSIZE, i = 0;
 	char *copy_path = NULL, *tokens = NULL, *sparse = ":=";
 	char **dir = _calloc(sizeof(char *), size);
@@ -18,7 +17,6 @@ char **_which(char *foundpath)
 	{
 		free(foundpath);
 		return (0);
-
 	}
 
 	if (dir == NULL)

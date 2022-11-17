@@ -13,7 +13,6 @@ void handle_signal(int signal)
 
 	write(STDOUT_FILENO, prompt, _strlen(prompt));
 	fflush(stdout);
-
 }
 
 /**
