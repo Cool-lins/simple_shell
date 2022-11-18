@@ -1,1 +1,1 @@
- A project of two "simple shell"
+ A project of two "simple shell" by Sani and Coolinsz
