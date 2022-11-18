@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * _myenv - prints  the current environment
  * @info: Structure containing potential arguments. Used to maintain

@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * _erratoi - convert a string to an integer
  * @s: the string to be converted

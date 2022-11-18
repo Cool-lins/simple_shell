@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * get_environ - return the string array copy of our environ
  * @info: Structure containing potential arguments. Used to maintain

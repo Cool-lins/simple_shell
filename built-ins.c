@@ -1,5 +1,5 @@
 #include "simpleshell.h"
-
+#include <stdio.h>
 /**
  * func_printenv - prints the current environment
  * @environ: environment variable

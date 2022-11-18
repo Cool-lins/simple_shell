@@ -1,4 +1,5 @@
 #include "simpleshell.h"
+#include <stdio.h>
 
 /**
  * handle_signal - prints new line and prompt when CTRL + C is passed as input

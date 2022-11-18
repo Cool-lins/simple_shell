@@ -1,4 +1,5 @@
 #include "simpleshell.h"
+#include<stdio.h>
 
 /**
  * _which - identifies the path of the command(*args) that is being passed

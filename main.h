@@ -136,7 +136,6 @@ NULL, NULL, NULL, 0, 0, 0, 0, NULL, NULL, NULL, NULL, NULL, 0, 0, NULL, \n
 
 typedef struct builtin
 {
-
 	char *type;
 	int (*func)(info_t *);
 

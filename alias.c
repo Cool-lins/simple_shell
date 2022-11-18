@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * _myhistory - diisplays the history list, one command by line, preceded
@@ -17,7 +18,7 @@ int _myhistory(info_t *info)
 }
 
 /**
- * unset_alias - sets alias to string project
+ * unset_alias - sets alias to string code
  * @info: parameter struct
  * @str: the string alias
  * Return: Always 0 on success, 1 on error
